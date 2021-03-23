@@ -112,7 +112,7 @@ chown -R :exam /tmp/www
 
 A képen látható chinook DB séma a Unix felhasználód nevével azonos nevű DB-be van betöltve (tehát, ha john.doe@example.com az email címed, akkor a DB neve john.doe)
 
-![Image of db image](hhttps://github.com/snoopyur/codecool-exam/blob/main/db%20image.png)
+![Image of db image](db%20image.png)
 
 ### 1. FELADAT:
 Figyelem: minden lekérdezést külön fájlba kell írnod (task1a.sql, task2b.sql, stb.)
