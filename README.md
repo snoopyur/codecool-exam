@@ -233,7 +233,7 @@ Indíts egy EC2 instance-t:
 - add hozzá a kulcspárod, tehát csak a saját SSH privát kulcsoddal (aminek a neve az email címed) lehessen elérni
 - állítsd le az instance-t (ne legyen running state-ben)
 
-# Köszönöm a figyelmet! 
+# Köszönöm a figyelmet! :tada:
 
 
 
